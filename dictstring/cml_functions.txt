@@ -1,0 +1,4 @@
+The two code snippets read a mathematical experssion as a first command line argument, 
+a independent variable as a second command line argument, the value in which the function
+is to be evaluated as a third command line argument, and  the papramaters as the other
+acompyning command line arguments

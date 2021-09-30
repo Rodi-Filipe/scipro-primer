@@ -1,0 +1,1 @@
+Because in the first code snippet the variable t1 is a dictionary and in the second code snippet the variable t2 is a list

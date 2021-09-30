@@ -1,0 +1,24 @@
+works
+
+assigns int object to x
+
+
+works
+
+assigns float object to x
+
+
+works
+
+assigns an int object to x
+
+
+does not work
+
+
+does not work also
+
+
+works
+
+assigns a tuple to x

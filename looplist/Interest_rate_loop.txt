@@ -1,0 +1,53 @@
+loop 1 
+amount=105.5
+years=1
+
+loop 2
+amount=111.3025
+years=2
+
+loop 3
+amount=117.4241375
+years=3
+
+loop 4
+amount=123.882
+years=4
+
+loop 5
+amount=130.696
+years=5
+
+loop 6
+amount=137.884
+years=6
+
+so on and on ...
+
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+because nothing is being added up to the original amount as a result of integer division
+
+---------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+"""
+Created on Sat Jun 19 13:47:56 2021
+
+@author: rodin
+"""
+
+initial_amount = 100 
+p = 5.5 # interest rate 
+amount = initial_amount 
+years = 0 
+while amount <= 1.5*initial_amount: 
+    amount += p/100*amount 
+    years += 1 
+    
+print(years)
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+A mathematical finance problem
+
+

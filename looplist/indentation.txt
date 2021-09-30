@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jun 20 15:22:46 2021
+
+@author: rodin
+"""
+
+C = -60; dC = 2 
+while C <= 58: 
+    F = (9.0/5)*C + 32
+    C = C + dC
+    print(C, F)
+
+
+problems were wrong indentantion and program logic

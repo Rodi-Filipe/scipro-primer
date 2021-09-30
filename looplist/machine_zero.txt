@@ -1,0 +1,7 @@
+the programm prints the value of eps and divides the current pes value 
+by 2 until the expression 1+eps is equal to 1
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+due to round off errors

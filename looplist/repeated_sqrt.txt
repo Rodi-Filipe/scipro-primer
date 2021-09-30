@@ -1,0 +1,8 @@
+the program squares roots and subsequently squares a given number r
+a specific number of times
+
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+
+due to round off erros as the decimals become so large that 
+python cannot handle them anymore
