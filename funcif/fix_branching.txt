@@ -1,1 +1,1 @@
-because there is not condition for when the value of x is bigger than four
+because there is no condition for when the value of x is bigger than four
