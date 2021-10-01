@@ -14,6 +14,8 @@ def get_input(NumHeaderLines=3):
     for i in range(NumHeaderLines,len(tempvar1)):
         tempvar2=tempvar1[i].split(sep=' ')[2]
         F.append(eval(tempvar2))
+    
+    f_ID.close()
     return F
 
 def F2C(F):
