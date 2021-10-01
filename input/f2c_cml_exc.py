@@ -11,8 +11,8 @@ def get_input():
     
     try:
         F=eval(sys.argv[1])
-    except IndexError as e:
-        raise IndexError('No comand line input given!')
+    except IndexError:
+        print('No comand line input given!')
         sys.exit(1)
 
     return F
